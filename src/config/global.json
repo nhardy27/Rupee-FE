@@ -1,0 +1,24 @@
+{
+  "api": {
+    "host_": "http://api-paisatrack.humbingo.in",
+    "host": "http://192.168.1.13:8001",
+    "token": "/auth/token/",
+    "path": "/api/v1",
+    "refreshToken": "/auth/token/refresh/",
+    "user": "/api/v1/user/",
+    "role": "/api/v1/role/",
+    "permission": "/api/v1/permission/",
+    "type": "/api/v1/type/",
+    "category": "/api/v1/category/",
+    "paymentMethod": "/api/v1/paymentMethod/",
+    "transaction": "/api/v1/transaction/",
+    "changeMyPassword": "/api/v1/changeMyPassword/",
+    "passwordReset": "/api/v1/passwordReset/",
+    "isSuperUser": "/api/v1/isSuperUser/",
+    "createUser": "/api/v1/createUser/",
+    "deleteUser": "/api/v1/deleteUser/",
+    "auditLog": "/api/v1/auditlog/",
+    "aiQuestion": "/api/v1/aiquestion/",
+    "aiQuestionCreate": "/api/v1/aiquestion/create_question/"
+  }
+}
